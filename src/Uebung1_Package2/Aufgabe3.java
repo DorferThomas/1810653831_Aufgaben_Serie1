@@ -1,6 +1,8 @@
+//Man befindet öffnet das Packet Uebung1_Package2
 package Uebung1_Package2;
-
+//Die Aufgabe3 Klasse wird aufgerufen
 public class Aufgabe3 {
+    //Main Methode wird aufgerufen.
     public static void main(String[] args)
     {
         //Aufgabe3
